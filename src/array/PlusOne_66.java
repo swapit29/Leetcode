@@ -8,6 +8,7 @@ public class PlusOne_66 {
 	 * Input: digits = [1,2,3] Output: [1,2,4]; Input: digits = [9] Output: [1,0]
 	 */
 
+	
 	// Beats - 100%
 	public static int[] plusOne(int[] digits) {
 		int i = digits.length - 1;
